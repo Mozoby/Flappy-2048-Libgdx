@@ -1,0 +1,173 @@
+
+images_packed.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+birdCell
+  rotate: false
+  xy: 1, 863
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+birdCellInner
+  rotate: false
+  xy: 1, 711
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+clear_sans_font
+  rotate: false
+  xy: 1, 389
+  size: 384, 320
+  orig: 384, 320
+  offset: 0, 0
+  index: -1
+clear_sans_font
+  rotate: false
+  xy: 1203, 757
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 32
+uibg
+  rotate: false
+  xy: 1, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 387, 564
+  size: 351, 145
+  orig: 351, 145
+  offset: 0, 0
+  index: -1
+gameover_straight
+  rotate: false
+  xy: 1461, 913
+  size: 320, 100
+  orig: 320, 100
+  offset: 0, 0
+  index: -1
+medals
+  rotate: false
+  xy: 387, 410
+  size: 221, 152
+  orig: 221, 152
+  offset: 0, 0
+  index: -1
+clear_sans_font
+  rotate: false
+  xy: 1461, 719
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 24
+clear_sans_font
+  rotate: false
+  xy: 1, 1
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: 16
+cellInner
+  rotate: false
+  xy: 740, 559
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cellOuter
+  rotate: false
+  xy: 892, 559
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+home_button
+  rotate: false
+  xy: 1783, 940
+  size: 199, 73
+  orig: 199, 73
+  offset: 0, 0
+  index: -1
+rate_button
+  rotate: false
+  xy: 1203, 682
+  size: 199, 73
+  orig: 199, 73
+  offset: 0, 0
+  index: -1
+share_button
+  rotate: false
+  xy: 1783, 865
+  size: 199, 73
+  orig: 199, 73
+  offset: 0, 0
+  index: -1
+start_button
+  rotate: false
+  xy: 387, 335
+  size: 199, 73
+  orig: 199, 73
+  offset: 0, 0
+  index: -1
+leader_button
+  rotate: false
+  xy: 610, 489
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+trophy_button
+  rotate: false
+  xy: 1044, 636
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+tapLeft
+  rotate: false
+  xy: 1655, 869
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+tapRight
+  rotate: false
+  xy: 259, 345
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+bragLeft
+  rotate: false
+  xy: 610, 449
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+bragRight
+  rotate: false
+  xy: 1044, 596
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+tap
+  rotate: false
+  xy: 195, 70
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tapTick
+  rotate: false
+  xy: 1984, 954
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
